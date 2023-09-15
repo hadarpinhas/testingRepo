@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "testingRepo", "testingRepo.pyproj", "{EA41E6F8-6494-4A02-934C-5BE4EA98D1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA41E6F8-6494-4A02-934C-5BE4EA98D1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA41E6F8-6494-4A02-934C-5BE4EA98D1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C27EFD8-2CA0-4F4D-8B23-F7088F9F0C1A}
+	EndGlobalSection
+EndGlobal
